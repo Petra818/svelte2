@@ -1,0 +1,49 @@
+@import 'tailwindcss';
+
+
+
+
+
+.gabarito-uniquifier {
+  font-family: "Gabarito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+
+.honk-uniquifier {
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+
+.tulpen-one-regular {
+  font-family: "Tulpen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.tomorrow-regular {
+  font-family: "Tomorrow", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.tomorrow-medium {
+  font-family: "Tomorrow", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+
+
+
+   
+   
+
