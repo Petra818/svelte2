@@ -1,4 +1,3 @@
-<div class="p-8 md:p-16">
 <script>
 	import { assets } from '$app/paths';
 	import { Aperture} from '@lucide/svelte';
@@ -56,6 +55,5 @@
 <div class=" bg-gray-300 h-[20px]"><p class="justify-center items-center flex">@ 2025 Rastislav Šikyňa - Petra Borová</p></div>
 
 </section>
-</div>
 
 
