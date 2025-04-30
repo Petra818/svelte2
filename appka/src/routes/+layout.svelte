@@ -1,3 +1,4 @@
+<div class="p-8 md:p-16">
 <script>
 	import { assets } from '$app/paths';
 	import { Aperture} from '@lucide/svelte';
@@ -6,6 +7,7 @@
 	import { page } from '$app/state';
 
 	let { children } = $props();
+
 </script>
 
 <header class="  h-15 justify-center flex border-b-4 border-b-gray-300 bg-gray-400">
@@ -54,5 +56,6 @@
 <div class=" bg-gray-300 h-[20px]"><p class="justify-center items-center flex">@ 2025 Rastislav Šikyňa - Petra Borová</p></div>
 
 </section>
+</div>
 
 
