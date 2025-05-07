@@ -10,17 +10,17 @@
 	<span class="block w-full "></span>
 </main>
 
-<article class="justify-center items-center flex pr-150 pl-150 pb-10">	
+<article class="justify-center items-center flex">	
 
 
- <a href="//svelte-zeta-two.vercel.app/"> <button  class="my-5 border-4 border-gray-700  bg-gray-500 w-[150px] h-[150px]  ease-linear hover:bg-gray-400 cursor-pointer"><FolderOpen class="w-35 size-16 stroke-2 text-white"/></button></a>  
+ <a href="//svelte-zeta-two.vercel.app/"> <button  class=" animate-pulse my-5 border-4 border-gray-700  bg-gray-500 w-[150px] h-[150px]  ease-linear hover:bg-gray-400 cursor-pointer"><FolderOpen class="w-35 size-16 stroke-2 text-white"/></button></a>  
 
 
 </article>
 
  <section class=" justify-center flex space-x-20 ">
          
-         <div class="border  w-[900px] h-[450px] rounded-2xl p-6 ">
+         <div class="border   rounded-2xl p-6 ">
             <div class="p-4 text-2xl tomorrow-regular">
 				<p class="justify-center text-center tomorrow-medium  ">STRÁNKY SME VYTVÁRALI NA PRAXI S CIEĽOM SA NAUČIŤ A ZDOKONALIŤ V ICH TVORBE  </p>
                         <p class="text-white">x</p>

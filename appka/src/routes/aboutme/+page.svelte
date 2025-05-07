@@ -1,16 +1,20 @@
-<main class=" ">
+<main class=" w-full">
+   <div>
 	<h1 class="tulpen-one-regular p-20 text-center text-8xl">INFORMÁCIE</h1>
 	
 
 	<span class="block w-full "></span>
-</main>
+</div>
 
 
 
- <section class=" justify-center flex space-x-20 ">
-   <div>
+ <section class="justify-center flex space-x-20  items-center lg:flex-row lg:px-140 pb-10  ">
+
+
+   <div class="">
+      <div>
         <p class="justify-center flex items-center text-2xl tomorrow-medium">PETRA BOROVÁ</p>
-         <div class="tomorrow-regular text-xl border w-[500px] h-[300px] rounded-2xl p-6 text-center">
+         <div class="tomorrow-regular text-xl border  rounded-2xl p-6 text-center">
          <p>- Žijem v dedine Rabčice na Orave.</p>
          <p>- Mám 17 rokov. </p>
          <p>- Študujem na Strednej Odbornej Priemyselnej škole Ignáca Gessaya v Tvrdošíne.</p>
@@ -18,15 +22,14 @@
          <p>- Pracovala som na stavbach po celej Orave.</p> 
          <p>- Momentálne pracujem v reštaurácii JeansPub.</p>
          <p>- Začiatkom Júla začínam pracovať v Nemecku.</p>
-         
-
          </div>
-         </div>
+         <p class="text-white">x </p>
+         <p class="text-white">x</p>
 
 
-         <div>
-            <p class="justify-center flex items-center text-2xl tomorrow-medium">RASTISLAV ŠIKYŇA</p>
-         <div class=" tomorrow-regular text-xl border  w-[500px] h-[300px] rounded-2xl p-6 text-center">
+         <div class="">
+            <p class="justify-center flex items-center text-2xl tomorrow-medium ">RASTISLAV ŠIKYŇA</p>
+         <div class=" tomorrow-regular text-xl border rounded-2xl p-6  lg:justify-center text-center ">
          <p>- Žijem v dedine Suchá Hora na Orave.</p>
          <p>- Mám 17 rokov. </p>
          <p>- Študujem na Strednej Odbornej Priemyselnej škole Ignáca Gessaya v Tvrdošíne.</p>
@@ -37,8 +40,5 @@
       </div>
 
  </section>
-
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Tulpen+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Tomorrow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Tulpen+One&display=swap');
-</style>
+</main>
+<!-- justify-center flex items-center text-2xl tomorrow-medium -->
