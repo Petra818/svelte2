@@ -63,6 +63,7 @@
 			<a href="/projects" class=" rounded-4xl p-3 hover:bg-gray-500">Projekty</a>
 			<a class=" rounded-4xl p-3 hover:bg-gray-500" href="/skills">Zručnosti</a>
 			<a class=" rounded-4xl p-3 hover:bg-gray-500" href="/contact">Kontakt</a>
+			
 		</div>
 	</section>
 </header>
